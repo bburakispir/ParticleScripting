@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/ParticleSplatter/Scenes/MainYedek.unity
+  isLoaded: 1
+  isActive: 1
